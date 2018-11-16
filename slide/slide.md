@@ -8,7 +8,15 @@ theme
 
 # 自己紹介
 
-森崎雅之 (@masayuki14)
+もりさきまさゆき
+
+@masayuki14
+
+- Twitter
+- GitHub
+- HatenaBlog
+
+# 自己紹介
 
 コミュニティ
 :    はんなりPython
@@ -19,6 +27,13 @@ theme
      パートタイム エンジニア
      スプーキーズアンバサダー
 
+# スプーキーズ@京都
+
+- Webシステム開発
+- ソーシャルゲーム開発
+- ボードゲーム開発
+
+https://spookies.co.jp/
 
 # アジェンダ
 
